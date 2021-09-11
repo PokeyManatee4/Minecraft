@@ -1,3 +1,3 @@
 import ursina
-ursina.app = ursina()
-ursina.app.run()
+app = ursina()
+app.run()
